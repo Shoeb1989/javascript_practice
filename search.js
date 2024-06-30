@@ -7,7 +7,8 @@
 //or using other code,
 
 const search = 'shoeb sikder pappu'
-const searchString = 'Pappu';
+const searchString = 'pappu';
 const doesExist = search.includes(searchString);
 console.log(doesExist);
+console.log(search.indexOf('pappu'));
 
