@@ -7,9 +7,9 @@
 //     console.log('dela will get');
 // } 
 
-const jim = 84;
-const dela = 99;
-const chinku = 77;
+const jim = 69;
+const dela = 97;
+const chinku = 99;
 
 if(jim > dela && jim > chinku){
     console.log('jim will get');
