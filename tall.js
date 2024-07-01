@@ -1,6 +1,6 @@
 function maxInArry(numbers){
+    let largest = numbers[0];
  for(let i = 0; i < numbers.length; i++){
-    let largest = numbers[0]
     const index = i;
     const element = numbers[index];
     console.log(element);
