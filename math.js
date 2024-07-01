@@ -16,3 +16,6 @@ else{
     
  }
 
+ const number = 3.1416;
+ const fullNumber = Math.round(number);
+ console.log(fullNumber);
