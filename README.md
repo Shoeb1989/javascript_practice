@@ -1,2 +1,2 @@
 # javascript_practice
-For Study Purpose.
+For Study Purpose 
