@@ -1,0 +1,15 @@
+// function Red (){
+//     document.body.style.backgroundColor = 'Red';
+// }
+
+// const redbtn = document.getElementById('red');
+// redbtn.onclick = redclolor;
+
+// function redclolor (){
+//     document.body.style.backgroundColor = 'red';
+// }
+
+// const bluebtn = document.getElementById('red');
+// bluebtn.onclick = function blue() {
+//     document.body.style.backgroundColor = 'purple';
+// }
