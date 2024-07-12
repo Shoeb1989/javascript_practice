@@ -6,3 +6,8 @@ document.getElementById('update').addEventListener('click', function(){
     p.innerText = input;
     tee.value = '';
 
+Te - text ID
+Tee - text
+p - paragraph
+p - ID
+button Id - Update
