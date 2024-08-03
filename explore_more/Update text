@@ -1,0 +1,13 @@
+document.getElementById('update').addEventListener('click', function(){
+    const tee = document.getElementById('te');
+    const input = tee.value;
+
+    const p = document.getElementById('p');
+    p.innerText = input;
+    tee.value = '';
+
+Te - text ID
+Tee - text
+p - paragraph
+p - ID
+button Id - Update
