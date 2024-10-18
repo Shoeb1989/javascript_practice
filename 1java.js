@@ -16,4 +16,16 @@ const Numberr = 16;
  console.log(nameee);
 
 
+const student = {
+fullName: "Rahul Kumar",
+age: 20,
+cgpa: 8.2,
+isPass: true,
+};
+
+student ["age"] = student ["age"] +1;  // age update inside the object 
+
+console. log(student.age);
+
+
 
