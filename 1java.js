@@ -24,6 +24,8 @@ isPass: true,
 };
 
 student ["age"] = student ["age"] +1;  // age update inside the object 
+student ["fullName"] = "Rahul sharma";  // name update inside the object 
+
 
 console. log(student.age);
 
