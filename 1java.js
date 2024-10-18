@@ -8,3 +8,12 @@
 
 // const : Variable cannot be re-declared or updated. A block scope variable.
 
+const Namee = 'shoeb sikder';
+ nameee = typeof (Namee);
+ console.log(nameee);
+const Numberr = 16;
+ nameee = typeof (Numberr);
+ console.log(nameee);
+
+
+
