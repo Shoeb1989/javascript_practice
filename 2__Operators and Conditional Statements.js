@@ -101,6 +101,28 @@ let age = 11;
 if(age > 18) {
 console.log("can vote") ;
 }
+else{
+    console.log("cant not vote")
+}
+
+
+
+
+//odd or even
+let num = 11;
+
+if (num % 2 === 0) // statement check num % 2 === 0 for odd even
+{
+console. log ("even") ;
+}else {
+console. log ("odd") ;
+}
+
+let age = 11;
+
+if(age > 18) {
+console.log("can vote") ;
+}
 if (age < 18) {
 console.log("can not vote") ;
 }
