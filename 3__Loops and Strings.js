@@ -12,3 +12,20 @@ for (let i = 1; i <= 5; i++) {
 }
 console.log(sum);
 console.log('loop done')
+
+  
+//  While Loop
+let i = 1;
+while(i <= 5) {
+console. log("i=", i);
+i++;
+}
+
+// do while loop 
+
+let i = 20;
+do {
+console. log("Prine only one"); 
+i++;
+} while (i <= 10);  
+  
