@@ -127,3 +127,12 @@ if (age < 18) {
 console.log("can not vote") ;
 }
 
+// Ternary Operator
+
+// condition ? true output : false output
+
+let age = 16;
+
+let result =  age >= 18 ? "Adult" : "Child"
+console.log(result);
+
