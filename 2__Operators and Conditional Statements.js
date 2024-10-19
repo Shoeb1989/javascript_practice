@@ -149,3 +149,18 @@ console.log(num, "is NOT .a.multiple of.3");
     
 }
 
+//  
+let num = 65;
+if (num >= 80 && num <=100) {
+    console.log("Got A+")
+}
+
+else if (num >= 70 && num <= 79) {
+    console.log("Got A")
+}
+else if (num >= 60 && num <= 69) {
+    console.log("Got B+")
+}
+else {
+    console.log('Got A-');
+}
