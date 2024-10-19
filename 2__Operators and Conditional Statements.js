@@ -84,4 +84,24 @@ let b = 5;
 
 let cond1 = a > b; //true
 let cond2 = a === 6; //true
-console. log("cond1 && cond2 = ", cond1 & cond2); // true
+console. log("cond1 && cond2 = ", cond1 & cond2); // true when two condition is true 
+
+let a = 6;
+let b = 5;
+
+let cond1 = a > b; //true
+let cond2 = a === 6; //true
+console. log("cond1 && cond2 = ", cond1 & cond2); // true when Any one Condition is true
+
+
+// conditional statement if/else
+
+let age = 11;
+
+if(age > 18) {
+console.log("can vote") ;
+}
+if (age < 18) {
+console.log("can not vote") ;
+}
+
