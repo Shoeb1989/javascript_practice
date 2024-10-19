@@ -136,3 +136,16 @@ let age = 16;
 let result =  age >= 18 ? "Adult" : "Child"
 console.log(result);
 
+
+
+// alart and prompt 
+
+let num = prompt ("enter a number:");
+
+if(num % 3 === 0){
+console.log(num, "is a.multiple of 3");
+else{
+console.log(num, "is NOT .a.multiple of.3"); 
+    
+}
+
