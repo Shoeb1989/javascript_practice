@@ -29,3 +29,4 @@ console. log("Prine only one");
 i++;
 } while (i <= 10);  
   
+// array
