@@ -28,5 +28,8 @@ do {
 console. log("Prine only one"); 
 i++;
 } while (i <= 10);  
+
+// do while didt use for personal case  
   
 // array
+  
