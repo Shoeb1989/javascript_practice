@@ -29,6 +29,12 @@ console. log("Prine only one");
 i++;
 } while (i <= 10);  
 
+  let i = 20;
+do {
+console. log("Prine only one"); 
+i--;
+} while (i <= 10);  
+
 // do while didt use for personal case  
   
 // array
