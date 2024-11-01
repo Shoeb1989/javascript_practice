@@ -4,6 +4,10 @@ for (let i = 1; i <= 5; i++) {
 
 console.log("Shoeb");
 
+//   for (let i = 1; i <= 5; i++) {
+
+// console.log("Shoeb");
+
   
 
 let sum = 0 ;
