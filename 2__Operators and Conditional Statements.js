@@ -149,7 +149,7 @@ console.log(num, "is NOT .a.multiple of.3");
     
 }
 
-//  
+//  mark distribute
 let num = 65;
 if (num >= 80 && num <=100) {
     console.log("Got A+")
