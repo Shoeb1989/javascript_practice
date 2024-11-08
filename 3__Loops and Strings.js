@@ -69,3 +69,14 @@ for(let num=0; num <= 100; num++){
  }
 
 }
+
+  
+let gameNum = 25;
+
+let userNum = prompt("Guess the game number : ");
+
+while(userNum != gameNum) { 
+   let userNum = prompt("You enter wrong number, Guess again : ");
+}
+console.log("congo You enter the right Number");
+
