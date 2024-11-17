@@ -102,3 +102,8 @@ tab /t
 let str = "01234546";
 console.log(str.slice(1, 3));
 
+let str1 = "SHOEB";
+let str2 = "SIkder";
+
+let res = str2.concat(str2);
+console. log (res);
