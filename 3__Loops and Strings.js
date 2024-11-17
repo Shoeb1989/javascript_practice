@@ -89,4 +89,8 @@ let output = `the cost of ${obj. item} is ${obj.price} rupees`;
 console.log(output);
 // console.log("the cost of", obj.item, "is", obj.price, "rupees");
 
+ // Template Literals
+let specialString = 'This is a template literal ${1 + 2 +3}';
+console. log (specialString);
+
 
