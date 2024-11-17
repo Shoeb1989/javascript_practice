@@ -93,4 +93,10 @@ console.log(output);
 let specialString = 'This is a template literal ${1 + 2 +3}';
 console. log (specialString);
 
+// escafe char
+
+next line /n
+
+tab /t
+
 
