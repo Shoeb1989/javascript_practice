@@ -107,3 +107,5 @@ let str2 = "SIkder";
 
 let res = str2.concat(str2);
 console. log (res);
+  let res = str1.concat(str1);
+console. log (res);
