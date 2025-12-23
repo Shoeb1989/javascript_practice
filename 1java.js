@@ -7,6 +7,8 @@
 // let : Variable cannot be re-declared but can be updated. A block scope variable.
 
 // const : Variable cannot be re-declared or updated. A block scope variable.
+// const : Variable cannot be re-declared or updated. A block scope variable.
+
 
 const Namee = 'shoeb sikder';
  nameee = typeof (Namee);
