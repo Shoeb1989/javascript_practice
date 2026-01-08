@@ -30,6 +30,7 @@ student ["fullName"] = "Rahul sharma";  // name update inside the object
 
 
 console. log(student.age);
+console. log(student.age);
 
 
 
